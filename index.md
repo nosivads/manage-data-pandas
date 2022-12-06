@@ -69,15 +69,10 @@ mydf = pandas.DataFrame(mydata, columns=['Name', 'Major', 'Class', 'GPA'])
 mydata
 ```
 
-
-
-
-    [['Tom', 'Physics', 2025, 3.7],
-    ['Li', 'Mathematics', 2026, 3.8],
-    ['Juan', 'Chemistry', 2024, 4.0],
-    ['Shyla', 'Geology', 2023, 3.9]]
-
-
+[['Tom', 'Physics', 2025, 3.7],  
+['Li', 'Mathematics', 2026, 3.8],
+['Juan', 'Chemistry', 2024, 4.0],
+['Shyla', 'Geology', 2023, 3.9]]
 
 
 ```python
