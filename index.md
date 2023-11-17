@@ -23,14 +23,6 @@ An introduction to Google Colab is available here: [https://research.google.com/
 
 Before the workshop please confirm that you have a Google Account with access to Colab.
 
-## Contents
-
-1. [abc](abc.md)
-    + 1.1 abc
-    + 1.2 abc
-
-2. [abc](abc.md) (abc)
-    + 2.1 abc
 ### Managing Data with Pandas
 ##### Stephen Davison sdavison@caltech.edu
 December 2, 2022
