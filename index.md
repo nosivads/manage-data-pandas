@@ -21,10 +21,6 @@ An introduction to Google Colab is available here: [https://research.google.com/
 
 Before the workshop please confirm that you have a Google Account with access to Colab.
 
-### Managing Data with Pandas
-##### Stephen Davison sdavison@caltech.edu
-December 2, 2022
-
 #### INTRODUCTION
 
 The Python package, pandas (“panel data”) is a general purpose data analysis package that provides data structures and operations for manipulating numerical tables and time series. Information and documentation are available here: https://pandas.pydata.org/.
