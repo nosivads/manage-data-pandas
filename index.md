@@ -1,8 +1,6 @@
 | A workshop inspired by | Sponsored by |
 | [<img src='TheCarpentries.svg' alt='Caltech Library' width='150'/>](https://carpentries.org) | [<img src='caltechlibrary-logo.png' alt='Caltech Library' width='150'/>](https://www.library.caltech.edu/) |
 
-#### December 2, 2022
-
 ## Introduction
 
 This workshop provides a brief introduction to Pandas ...
